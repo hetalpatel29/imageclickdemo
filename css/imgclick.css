@@ -1,0 +1,19 @@
+section {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section img {
+    height: 150px;
+    width: 150px;
+}
+
+section #mainimage {
+    width: 450px;
+    height: 450px;
+    border: 5px solid grey;
+    margin-bottom: 20px;
+}
